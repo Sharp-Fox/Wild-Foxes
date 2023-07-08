@@ -1,4 +1,4 @@
-# Wild-Foxes
+# Wild Foxes
 Sharp Fox's Present Wild Foxes The Game
 ## Description  
 A game made by Sharp Fox team, with the name "Wild Foxes".  
