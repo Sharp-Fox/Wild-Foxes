@@ -4,9 +4,9 @@ Sharp Fox's Present Wild Foxes The Game
 A game made by Sharp Fox team, with the name "Wild Foxes".  
 ## Credits  
 Idea - FloxCat
-Programming - FloxCat, FoxH, RedFoxk
-Language - Python
-Image - FloxCat
-Content - FoxH
+Programming - FloxCat, FoxH, RedFoxk  
+Language - Python  
+Image - FloxCat  
+Content - FoxH  
 ## License  
 See LICENSE file  
